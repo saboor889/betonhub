@@ -175,7 +175,12 @@ ul.work-points li span {
   margin-right: 10px;
       flex-shrink: 0;
 }
-
+.privacy-text :is(p, h4, li) {
+  margin-bottom: 20px;
+}
+.privacy-text h4 {
+  font-weight: 700;
+}
 
 /*===== All Button Style =====*/
 .appie-header-main-menu .main-btn {
@@ -4533,7 +4538,7 @@ blockquote cite {
     background: #801f82; }
 
 .footer-navigation {
-  margin-top: 30px; }
+  margin-top: 10px; }
   @media (max-width: 767px) {
     .footer-navigation {
       text-align: center; } }
@@ -4547,7 +4552,7 @@ blockquote cite {
     list-style-type: none; }
     .footer-navigation ul li a {
       color: #fff !important;
-      font-size: 15px;
+      font-size: 14px;
       font-weight: 500;
       margin-bottom: 6px; }
       .footer-navigation ul li a:hover {

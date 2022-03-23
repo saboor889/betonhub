@@ -73,7 +73,7 @@
                                     <a href="index.html">Home</a>
                                 </li>
                                 <li>
-                                    <a href="about-us.html">Our Story</a>
+                                    <a href="about-us.html">About Us</a>
                                 </li>
                                 <li>
                                     <a href="partner.html">Partner With Us</a>
@@ -111,7 +111,7 @@
                                     <a href="index.html">Home</a>
                                 </li>
                                 <li>
-                                    <a href="about-us.html">Our Story</a>
+                                    <a href="about-us.html">About Us</a>
                                 </li>
                                 <li>
                                     <a href="partner.html">Partner With Us</a>
@@ -157,19 +157,23 @@
                                         <h1 class="appie-title text-uppercase">plumber</h1>
                                     </div>
                                     <div>
-                                        <h1 class="appie-title text-uppercase">cleaning</h1>
+                                        <h1 class="appie-title text-uppercase">car tower</h1>
                                     </div>
                                     <div>
                                         <h1 class="appie-title text-uppercase">mover</h1>
-                                    </div>
-                                    <div>
-                                        <h1 class="appie-title text-uppercase">carpenter</h1>
+
                                     </div>
                                     <div>
                                         <h1 class="appie-title text-uppercase">renovation contractor</h1>
                                     </div>
                                     <div>
                                         <h1 class="appie-title text-uppercase">painter</h1>
+                                    </div>
+                                    <div>
+                                        <h1 class="appie-title text-uppercase">carpenter</h1>
+                                    </div>
+                                    <div>
+                                        <h1 class="appie-title text-uppercase">furniture assembler</h1>
                                     </div>
                                 </div>
                                 <p>Say goodbye to time consuming chores and hello to more free time. The world of services on your fingertips!</p>
@@ -183,7 +187,7 @@
                         <div class="col-lg-6 ">
                             <div class="">
                                 <div class="thumb wow animated fadeInUp" data-wow-duration="2000ms" data-wow-delay="2500ms">
-                                    <img src="assets/images/hi.png" alt="">
+                                    <img src="assets/images/custom/app-mock.png" alt="">
                                 </div>
                             </div>
                         </div>
@@ -257,7 +261,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-12 text-center mb-5 wow animated fadeInUp">
-                    <!---h4 class="sub-heading">Bet On Hub App</h4--->
+                    <h4 class="sub-heading">Bet On Hub App</h4>
                     <h3 class="primary-heading">HOW IT WORKS?</h3>
                 </div>
                 <div class="col-lg-4 wow animated fadeInRight">
@@ -282,7 +286,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="appie-features-content wow animated fadeInRight" >
-                                        <!-- <span>01 </span> -->
+                                        <span>01 </span>
                                         <h3 class="title">Register Now </h3>
                                         <p>  Register for free and get access to any service provider in your demographic to discuss the solution to your problem without disclosing your personal information until and unless you want to move forward with them.</p>
                                     </div>
@@ -293,12 +297,12 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="appie-features-thumb text-center" >
-                                        <img src="assets/images/chat-2.png" alt="">
+                                        <img src="assets/images/custom/category.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="appie-features-content" >
-                                        <!-- <span>02</span> -->
+                                        <span>02</span>
                                         <h3 class="title">Choose A Category </h3>
                                         <p>   Bet On Hub caters a wide range of service providers all over Canada, choose your pick as per your need! Our focus is to make life easy for you! </p>
                                     </div>
@@ -309,12 +313,12 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="appie-features-thumb text-center" >
-                                        <img src="assets/images/service.png" alt="">
+                                        <img src="assets/images/custom/service.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="appie-features-content" >
-                                        <!-- <span>03  </span> -->
+                                        <span>03  </span>
                                         <h3 class="title">My Services </h3>
                                         <p>   Choose a licensed and certified service provider. Keep track of the services and the service providers you use. Our app maintains your past booked appointments and the details discussed in chat for your record keeping. </p>
                                     </div>
@@ -325,12 +329,12 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="appie-features-thumb text-center" >
-                                        <img src="assets/images/chat.png" alt="">
+                                        <img src="assets/images/custom/chat.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="appie-features-content" >
-                                        <!-- <span>04  </span> -->
+                                        <span>04  </span>
                                         <h3 class="title"> Chat  </h3>
                                         <p>  Chat with multiple service providers in real time until you choose one as per their pricing, reviews or both! </p>
                                     </div>
@@ -341,12 +345,12 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="appie-features-thumb text-center" >
-                                        <img src="assets/images/chat-1.png" alt="">
+                                        <img src="assets/images/custom/save.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="appie-features-content" >
-                                        <!-- <span>05  </span> -->
+                                        <span>05  </span>
                                         <h3 class="title"> Save Time & Energy </h3>
                                         <p>  Why call multiple providers till you find someone who fits your budget, schedule and quality?! Just Bet On Hub and let the right provider come to you! </p>
                                     </div>
@@ -367,7 +371,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center mb-5 wow animated fadeInUp">
-                    <!---h4 class="sub-heading">Bet On Hub App</h4--->
+                    <h4 class="sub-heading">Bet On Hub App</h4>
                     <h3 class="primary-heading">Now Available</h3>
                 </div>
             </div>
@@ -396,6 +400,7 @@
     <section class="appie-sponser-area pb-100">
         <div class="container">
             <div class="col-lg-12 text-center mb-5 wow animated fadeInUp">
+                <h4 class="sub-heading">Bet On Hub App</h4>
                 <h3 class="primary-heading">Our Partners</h3>
             </div>
             <div class="row">
@@ -450,9 +455,9 @@
                 <div class="col-lg-5 pt-90  pl-100 wow animated fadeInLeftBig">
                     <div class="row">
                         <div class="col-lg-12 text-left">
-                            <h4 class="sub-heading">Bet On Hub</h4>
-                            <h3 class="primary-heading mb-2">Coming soon on AppStore and PlayStore!</h3>
-                            <!---p class="mb-4">Download Now</p--->
+                            <h4 class="sub-heading">Bet On Hub App</h4>
+                            <h3 class="primary-heading">Coming soon On AppStore and PlayStore!</h3>
+                            <p class="mb-4">Download Now</p>
                             <ul class="d-flex">
                                 <li><img class="mr-3" src="assets/images/custom/app-store.png" width="150px"></li>
                                 <li><img src="assets/images/custom/play-store.png" width="150px"></li>
@@ -461,7 +466,7 @@
                     </div>                 
                 </div>
                 <div class="col-lg-7 pt-sm-0 pt-5  wow animated fadeInRightBig">
-                    <img src="assets/images/mock-n.png" class="mocks">
+                    <img src="assets/images/custom/mocks.png" class="mocks">
                 </div>
             </div>
         </div>
@@ -474,26 +479,24 @@
     <section class="appie-footer-area">
         <div class="container">
             <div class="row justify-content-between align-items-center border-bottom pb-4 mb-5">
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-6 col-md-6">
                     <div class="logo">
-                        <a href="#"><img src="assets/images/custom/logo.png" alt=""></a>
+                        <a href="#"><img src="assets/images//custom/logo.png" alt=""></a>
                     </div>
                 </div>
-                <div class="col-lg-9 col-md-6">
+                <div class="col-lg-6 col-md-6">
                     <div class="footer-navigation text-right">
                         <ul>
                             <li class="d-inline-block px-sm-3 px-1"><a href="index.html">Home</a></li>
-                            <li class="d-inline-block px-sm-3 px-1"><a href="about-us.html">Our Story</a></li>
+                            <li class="d-inline-block px-sm-3 px-1"><a href="about-us.html">About Us</a></li>
+                            <li class="d-inline-block px-sm-3 px-1"><a data-toggle="modal" data-target="#exampleModalContact" href="">Contact Now</a></li>
                             <li class="d-inline-block px-sm-3 px-1"><a href="partner.html">Partner With Us</a></li>
-<li class="d-inline-block px-sm-3 px-1"><a data-toggle="modal" data-target="#exampleModalContact" href="">Contact Now</a></li>
-                            <li class="d-inline-block px-sm-3 px-1"><a href="privacy-policy.html">Privacy Policy</a></li>
-                            <li class="d-inline-block px-sm-3 px-1"><a href="#">Terms and Conditions</a></li>
                         </ul>
                     </div>
                 </div>
             </div>
             <div class="row justify-content-between align-items-center">
-                <div class="col-lg-6 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <div class="copyright-text">
                         <p>Copyright © 2022 Bet On Hub. All rights reserved.</p>
                     </div>
@@ -535,50 +538,50 @@
         </div>
         <div class="modal-body">
             <div class="container-fluid">
-                <form class="row" method="post" action="partner_mail.php">
+                <form class="row" method="POST" action="index.php">
                     <div class="col-md-12 text-center">
                         <h3 class="primary-heading mb-5">Partner With Us</h3>
                     </div>
                     <div class="col-lg-3 col-md-6 px-2">
                         <div class="form-group">
                             <label for="exampleInputEmail1">Company Name</label>
-                            <input type="text" name="company" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Company Name">
+                            <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Company Name">
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 px-2">
                         <div class="form-group">
-                            <label for="exampleInputEmail1">Contact Name</label>
-                            <input type="text" name="name" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Contact Name">
+                            <label for="exampleInputEmail1">Your contact number</label>
+                            <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Your contact number">
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 px-2">
                         <div class="form-group">
-                            <label for="exampleInputPassword1">Contact Number</label>
-                            <input type="number" name="number" class="form-control" id="exampleInputPassword1" placeholder="Contact Number">
+                            <label for="exampleInputEmail1">Email</label>
+                            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Email">
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 px-2">
                         <div class="form-group">
-                            <label for="exampleInputEmail1">Email Address</label>
-                            <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Email Address">
+                            <label for="exampleInputPassword1">contact number</label>
+                            <input type="text" class="form-control" id="exampleInputPassword1" placeholder="contact number">
                         </div>
                     </div>
                     
                     <div class="col-md-12 px-2">
                         <div class="form-group">
                             <label for="exampleFormControlTextarea1">Message</label>
-                            <textarea class="form-control" name="message" id="exampleFormControlTextarea1" rows="3"></textarea>
+                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                           </div>
                     </div>
                     <div class="col-md-12 mt-4 text-center d-flex justify-content-center align-items-center">
-                        <button type="submit" name="partner" class="btn btn-primary">Submit</button>
+                        <button type="submit" class="btn btn-primary">Submit</button>
                     </div>
                 </form>
             </div>
         </div>
       </div>
     </div>
-    </div>
+  </div>
 
   <div class="modal fade" id="exampleModalContact" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-xl modal-dialog-centered" role="document">
@@ -590,26 +593,26 @@
         </div>
         <div class="modal-body">
             <div class="container-fluid">
-                <form class="row" method="post" action="mail.php">
+                <form class="row" method="POST" action="mail.php">
                     <div class="col-md-12 text-center">
                         <h3 class="primary-heading mb-5">Contact Us</h3>
                     </div>
                     <div class="col-lg-4 col-md-6 px-2">
                         <div class="form-group">
                             <label for="exampleInputEmail1">contact Name</label>
-                            <input type="text" name="name" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Contact Name">
+                            <input type="text" class="form-control" name="name" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Contact Name">
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 px-2">
                         <div class="form-group">
                             <label for="exampleInputEmail1">contact number</label>
-                            <input type="number" name="number" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Contact Number">
+                            <input type="text" class="form-control" name="number" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Your Contact Number">
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 px-2">
                         <div class="form-group">
-                            <label for="exampleInputEmail1">Email Address</label>
-                            <input type="email" name="user_email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Email Address">
+                            <label for="exampleInputEmail1">Email</label>
+                            <input type="email" class="form-control" name="user_email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Email">
                         </div>
                     </div>
                     
@@ -620,7 +623,7 @@
                           </div>
                     </div>
                     <div class="col-md-12 mt-4 text-center d-flex justify-content-center align-items-center">
-                        <button type="submit" name="done" class="btn btn-primary">Send</button>
+                        <button   class="btn btn-primary" type="submit" name="done">Send</button>
                     </div>
                 </form>
             </div>
@@ -630,7 +633,53 @@
   </div>
 
     
-    
+      <?php
+             if (isset($_POST['partner'])) {
+            $to="m.bilaldsu@gmail.com";
+            $name = $_POST['name'];
+            $email = $_POST['user_email'];
+            $number = $_POST['number'];
+            $company = $_POST['company'];
+            $message = $_POST['message'];
+            
+            $headers = "From: $name \r\n";
+
+            $headers .= "Reply-To: $email \r\n";
+ 
+	        $message = "Name: " . $name . "\n"
+	         . "Contact Name  : " . $company . "\n\n"
+	        . "Email  : " . $email . "\n\n"
+            . "Phone Number: " . $number . "\n\n"
+           
+            . "Message: "   . $_POST['message'];
+
+	 
+
+	$subject = "You have received a new message from the user $name.\n"   ; 
+                          
+ 
+          //  mail($to,$email_subject,$email_body,$headers); 
+            
+            if(mail($to, $subject, $message, $headers))  
+   {
+ 
+          
+         echo '<script language="javascript">';
+          echo 'alert("Message sent successfully! Thank you"); location.href="partner.html"';
+          echo '</script>';
+          
+          
+          
+          
+
+   }
+   else
+   {	
+   	 //Fail Message
+      echo "The message could not been sent!";
+   }
+             }
+            ?>
     
     
     
